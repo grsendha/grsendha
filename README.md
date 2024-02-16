@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gyanaranjan Sendha</h1>
-<h3 align="center">A passionate android developer from Odisha</h3>
+<h3 align="center">PAssionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-- 🌱 I’m currently learning **Flutter, DS Algo**
+- 🌱 I’m currently learning **New Stack which is suitable for me**
 
 - 💬 Ask me about **tech and gaming**
 
