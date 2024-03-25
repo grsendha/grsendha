@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gyanaranjan Sendha
-==========================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&color=29F749&multiline=true&repeat=false&random=false&width=488&height=120&lines=Hello+There;I+am;Gyanaranjan+Sendha)](https://git.io/typing-svg)
 
 Backend Developer
 -----------------
