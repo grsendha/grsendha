@@ -1,15 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&color=29F749&multiline=true&repeat=false&random=false&width=488&height=120&lines=Hello+There;I+am;Gyanaranjan+Sendha)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **AirlineManagement API**
+🔭 I’m currently working on **AirlineManagement API**
 
-- 🌱 I’m currently learning **React , Node**
+🌱 I’m currently learning **React , Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/grsendha](https://github.com/grsendha)
+💬 Ask me about **C++ and Backend**
 
-- 💬 Ask me about **C++ and Backend**
-
-- 📫 How to reach me **grsendha11@gmail.com**
+📫 How to reach me **grsendha11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grsendha&show_icons=true&locale=en" alt="grsendha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grsendha&" alt="grsendha" /></p>
